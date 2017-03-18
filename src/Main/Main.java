@@ -12,4 +12,6 @@ public class Main {
         d2.sizeCHanch = 12;
         System.out.println(d1.equals(d2));;
     }
+    int a = 3;
 }
+
